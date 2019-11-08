@@ -1,0 +1,6 @@
+framework module LWaabbccd {
+  umbrella header "LWaabbccd-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_LWaabbccd_Tests {
+  umbrella header "Pods-LWaabbccd_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
